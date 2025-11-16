@@ -1,0 +1,47 @@
+11/02/2025, 08:45 - Aisha: Good morning Ma'am 😊
+11/02/2025, 08:46 - Ms. Sharma: Good morning Aisha. Please remember the assignment due tomorrow.
+11/02/2025, 08:47 - Rohit: Ma'am, can you confirm the word count for the essay?
+11/02/2025, 08:48 - Ms. Sharma: The essay should be 800–1000 words. Focus on structure and sources.
+11/02/2025, 08:50 - Aisha: Thanks — can we use Wikipedia as a source?
+11/02/2025, 08:52 - Ms. Sharma: Wikipedia can be a starting point but cite primary sources. Prefer books, journals, or reputable websites.
+11/02/2025, 09:10 - Aisha: Understood. Also, will there be extra credit for late submissions?
+11/02/2025, 09:12 - Ms. Sharma: No extra credit. Late submissions will have a penalty of 10% per day unless there's a valid reason.
+11/03/2025, 10:05 - Rohit: Ma'am, I am struggling with the citation format. Which one should we use — APA or MLA?
+11/03/2025, 10:06 - Ms. Sharma: Use APA 7th edition for this assignment. I'll upload a sample on the class drive.
+11/03/2025, 10:07 - Aisha: Thank you! That will help a lot.
+11/04/2025, 14:20 - Aisha: Ma'am, the link to the sample isn't opening for me.
+11/04/2025, 14:22 - Ms. Sharma: Try this new link: <Media omitted>
+11/04/2025, 14:23 - Rohit: It works now. Thanks.
+11/06/2025, 18:00 - Aisha: Ma'am, can we have a quick doubt-clearing session after class tomorrow?
+11/06/2025, 18:02 - Ms. Sharma: Sure — I'll be available from 4:30 PM to 5:30 PM in the library. Bring your drafts.
+11/07/2025, 16:35 - Rohit: Ma'am, I will be absent tomorrow due to a family function. Can I submit on Friday?
+11/07/2025, 16:37 - Ms. Sharma: Please submit by Saturday with prior notice. Friday is acceptable.
+11/08/2025, 09:01 - Aisha: Ma'am, I'm getting conflicting word counts after copy-pasting from Google Docs. Any tip?
+11/08/2025, 09:03 - Ms. Sharma: Paste into Notepad first to remove formatting, then check word count in Docs again.
+11/08/2025, 12:00 - Rohit: Ma'am, I have a question about the bibliography — do web pages require access dates?
+11/08/2025, 12:05 - Ms. Sharma: For APA, include access dates only if the content is likely to change. Otherwise include DOI or stable link.
+11/09/2025, 19:20 - Aisha: Ma'am, I've attached my draft. Please review when you have time. <Media omitted>
+11/09/2025, 19:45 - Ms. Sharma: Received. I'll give feedback by tomorrow noon.
+11/10/2025, 11:30 - Aisha: Thank you so much!
+11/10/2025, 11:35 - Ms. Sharma: Quick reminder: the test on Monday covers chapters 1–5.
+11/10/2025, 11:36 - Rohit: What is the format of the test? MCQs or long answers?
+11/10/2025, 11:37 - Ms. Sharma: Mix of both — 40% MCQs, 60% short & long answers.
+11/10/2025, 11:40 - Aisha: Any recommended revision strategy?
+11/10/2025, 11:42 - Ms. Sharma: Make summary notes, practice past papers, and form study groups.
+11/10/2025, 15:20 - Aisha: Can you share past papers please?
+11/10/2025, 15:25 - Ms. Sharma: Uploaded in the drive folder: Past_Papers_2020-2024.pdf <Media omitted>
+11/10/2025, 20:00 - Rohit: Ma'am, my internet was down — can I get the class recording?
+11/10/2025, 20:05 - Ms. Sharma: Yes, I'll share the recording link tomorrow.
+11/11/2025, 07:15 - Aisha: Good morning Ma'am, what's the test timing on Monday?
+11/11/2025, 07:16 - Ms. Sharma: 10:00 AM — you'll have 90 minutes.
+11/11/2025, 07:18 - Rohit: Ma'am, will calculators be allowed?
+11/11/2025, 07:20 - Ms. Sharma: Only basic calculators — no programmable calculators permitted.
+11/11/2025, 08:00 - Aisha: I am a bit nervous 😅
+11/11/2025, 08:01 - Ms. Sharma: You'll do well. Focus on practice and sleep well tonight.
+11/11/2025, 08:10 - Parent Megha: Hello Ms. Sharma, this is Megha (Aisha's mother). Will the test affect final grades significantly?
+11/11/2025, 08:12 - Ms. Sharma: Hi Megha — the test is 20% of the term grade. Continuous assessment remains important.
+11/11/2025, 08:15 - Parent Megha: Thanks for the clarification.
+11/11/2025, 09:00 - Aisha: Ma'am, I've submitted my final draft. Please confirm when you review.
+11/11/2025, 09:05 - Ms. Sharma: Confirmed — draft received. Feedback will be posted in the drive.
+11/11/2025, 09:10 - Rohit: All the best everyone for Monday!
+11/11/2025, 09:15 - Aisha: Good luck!
