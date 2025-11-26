@@ -4,3 +4,5 @@ myenv
 .txt
 env
 .ipynb_checkpoints/
+__pycache__/
+whatsapp_chat.txt
